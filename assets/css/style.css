@@ -46,6 +46,7 @@ h1 {
   font-size: 110%;
   letter-spacing: 4px;
   list-style-type: none;
+  flex-wrap: wrap; /* Enables the flex items to wrap as needed */
 }
 
 #menu li {
