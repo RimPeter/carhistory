@@ -49,7 +49,28 @@ h1 {
 }
 
 #menu li {
-  margin-bottom: 1em;
+    margin: 5px 0; /* Space between list items */
+    list-style-type: none; /* Removes default list item bullets */
+}
+
+#menu li a {
+    display: block; /* Makes the link fill the entire list item */
+    text-decoration: none; /* Removes underline */
+    color: white; /* Text color */
+    background-color: #007bff; /* Background color of the button */
+    padding: 10px 20px; /* Padding inside the link/button */
+    text-align: center; /* Centers the text */
+    border: none; /* No border */
+    border-radius: 8px; /* Rounds the corners, adjust radius as needed */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+#menu li a:hover {
+    background-color: #0056b3; /* Color for hover effect */
+}
+
+#menu li a.active {
+    background-color: #004080; /* Different shade for active link */
 }
 
 .active {
