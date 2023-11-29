@@ -119,11 +119,43 @@ nav {
 
 /* Main Content */
 
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 .visual {
   width: auto;
   height: 150px;
   border-radius: 25px;
-  
+  align-items: end;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10px;
+  border: #5c3b15 2px solid;
+
+}
+
+.periods {
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+  padding-top: 20px;
+  border-bottom: 2px solid ;
+}
+
+.minititle {
+  padding-top: 30px;
+}
+
+.short-text {
+  text-align: justify;
+  border: #5c3b15 2px solid;
+  border-radius: 25px;
+  padding: 10px ;
+  margin-top: 10px;
 }
 
 main {
@@ -175,6 +207,16 @@ footer {
     /*push main content down to fit header*/
     margin-top: 79px;
   }
+/*
+  .periods {
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+*/
+}
+
+  
 }
 /*Footer*/
 #social-networks {
