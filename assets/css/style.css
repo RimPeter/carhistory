@@ -18,10 +18,12 @@ body {
 }
 
 /* Header */
+/*
 #headerimage {
   width: 5%;
   height: auto;
 }
+*/
 
 header {
   background-color: #ecc69f;
@@ -38,6 +40,7 @@ header {
 header a {
   text-decoration: none;
   color: #3a3a3a;
+  font-size: 80%;
 }
 
 h1 {
@@ -125,10 +128,17 @@ main {
 
 /* Hero section*/
 
-#hero {
-  height: 600px;
+#banner {
+  height: 1600px;
   width: 100%;
-  background: url(../images/carhistory_banner1.jpg) no-repeat center center/cover;
+  background: url(../images/background_tile.png);
+  z-index: 1;
+}
+
+#overlay {
+  z-index: 2;
+  background: ;
+
 }
 
 /* Footer */
