@@ -119,6 +119,13 @@ nav {
 
 /* Main Content */
 
+.visual {
+  width: auto;
+  height: 150px;
+  border-radius: 25px;
+  
+}
+
 main {
   background-color: #bea78d;
   /* Make main element take up any surplus space to push footer down*/
