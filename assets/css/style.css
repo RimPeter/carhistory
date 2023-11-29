@@ -120,28 +120,18 @@ nav {
 /* Main Content */
 
 main {
-  background-color: lightblue;
+  background-color: #bea78d;
   /* Make main element take up any surplus space to push footer down*/
   flex: 1 0 auto;
   margin-top: 47px;
 }
 
-/* Hero section*/
 
-#banner {
-  height: 1600px;
-  width: 100%;
-  background: url(../images/background_tile.png);
-  z-index: 1;
-}
-
-#overlay {
-  z-index: 2;
-  background: ;
-
-}
 
 /* Footer */
+footer {
+  background-color: #ecc69f;
+}
 
 /* Media query: tablets and larger (768px and up)*/
 @media screen and (min-width: 768px) {
