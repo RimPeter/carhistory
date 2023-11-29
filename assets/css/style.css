@@ -24,7 +24,7 @@ body {
 }
 
 header {
-  background-color: #a7a6a6;
+  background-color: #ecc69f;
   padding: 0 1rem;
   position: fixed;
   z-index: 99;
@@ -44,8 +44,8 @@ h1 {
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #007bff;
-  text-shadow: 0 8px 8px #3a3a3a;
+  color: #5c3b15;
+  text-shadow: 0 8px 8px white;
 }
 
 #menu {
@@ -64,22 +64,23 @@ h1 {
 #menu li a {
   display: block; /* Makes the link fill the entire list item */
   text-decoration: none; /* Removes underline */
-  color: white; /* Text color */
-  background-color: #007bff; /* Background color of the button */
+  color: #5c3b15; /* Text color */
+  background-color: rgba(236,198,159,255); /* Background color of the button */
   padding: 10px 20px; /* Padding inside the link/button */
   text-align: center; /* Centers the text */
   border: none; /* No border */
   border-radius: 10px; /* Rounds the corners, adjust radius as needed */
   transition: background-color 0.3s; /* Smooth transition for hover effect */
-  box-shadow: 0 8px 8px #3a3a3a;
+  box-shadow: 0 8px 8px rgba(43,34,1,255);
+  text-shadow: 0 8px 8px rgba(43,34,1,255);
 }
 
 #menu li a:hover {
-  background-color: #0056b3; /* Color for hover effect */
+  background-color: #7eb0a4; /* Color for hover effect */
 }
 
 #menu li a.active {
-  background-color: #004080; /* Different shade for active link */
+  background-color: #7eb0a4; /* Different shade for active link */
 }
 
 .active {
@@ -90,7 +91,7 @@ h1 {
 
 nav {
   position: absolute;
-  background-color: #ffffff;
+  background-color: rgba(236,198,159,255);
   width: 100%;
   left: 0;
   padding: 0 1rem;
