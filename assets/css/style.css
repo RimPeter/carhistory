@@ -18,6 +18,11 @@ body {
 }
 
 /* Header */
+#headerimage {
+  width: 5%;
+  height: auto;
+}
+
 header {
   background-color: #a7a6a6;
   padding: 0 1rem;
