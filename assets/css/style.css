@@ -35,6 +35,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  
 }
 
 header a {
@@ -119,7 +120,7 @@ nav {
 
 /* Main Content */
 
-.background {
+.background { /*styling for banner and for postertitle*/
   background-image: url(../images/carhistory_banner1.jpg);
   background-size: cover;
   background-position: center;
@@ -139,11 +140,11 @@ nav {
   text-shadow: 0 8px 8px rgba(43,34,1,255);
 }
 
-section {
+section { /*make space from the edges of the screen for main page top section*/
   padding-left: 20px;
   padding-right: 20px;
 }
-.carphoto {
+.carphoto { 
   width: auto;
   height: 150px;
   border-radius: 25px;
@@ -156,9 +157,9 @@ section {
 
 .periods {
   display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
 }
 
 h2 {
@@ -181,18 +182,18 @@ h2 {
 main {
   background-color: #bea78d;
   /* Make main element take up any surplus space to push footer down*/
-  flex: 1 0 auto;
+  /*flex: 1 0 auto;*/
   margin-top: 40px;
 }
 
 article {
   margin-left: 4%;
-  margin-right: 4%; /* to make sure to give some rooms at the edge of the screen */
+  margin-right: 4%; /* give some rooms from text at the edge of the screen */
 
 }
 
 div p {
-  text-align: justify; /* stretch texts in articles*/
+  text-align: justify; /* stretch texts to both sides in articles*/
 }
 
 
@@ -209,25 +210,26 @@ footer {
     position: relative;
     box-shadow: none;
     width: fit-content;
-    padding-right: 1rem;
+    
+    /*padding-right: 1rem;*/
   }
 
   #menu {
-    display: flex;
+    display: flex;          /* arrange menu buttons horizontal */
   }
 
   #menu > li {
-    padding-left: 1rem;
+    padding-left: 1rem;     /* make space between menu buttons */
   }
 
   .nav-toggle-label {
-    display: none;
+    display: none;          /*make burger icon removed*/
   }
 
   #logo {
     font-size: 280%;
-    line-height: 75px;
-    margin: 0 0.5rem;
+    line-height: 75px;      /* make header 75px thick*/
+    /*margin: 0 0.5rem;*/
   }
 
   /* Main Content*/
@@ -238,18 +240,20 @@ footer {
   }
 
   .carphoto {
-    order: 2;
+   /* order: 2;*/
   }
   .short-text {
-    order: 0;
+    /*order: 0;*/
     padding-top: 33px;
-    margin-right: 20px;
+    margin-right: 20px; /*make space between the brown frames of the text and img*/
+
   }
+  
   .periods {
-  display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: row;
+  /*display: flex;*/
+    /*justify-content: space-between;*/
+    /*align-items: center;*/
+    flex-direction: row;                /* make the car-images horizontal with the text */
 
   }
 
@@ -263,23 +267,27 @@ footer {
   
 }
 /*Footer*/
+
 #social-networks {
-  text-align: center;
-  padding: 20px 0;
-  display: flex;
-  justify-content: space-evenly;
-  list-style-type: none;
+  /*text-align: center;*/
+  padding: 20px 0;                /* make the footer thicker*/
+  display: flex;                  /* make the list of links horizontal*/
+  justify-content: space-evenly;  /* spread links evenly on footer*/
+  list-style-type: none;          /* remove bullet points */
 }
 
+/*
 #social-networks i {
   font-size: 160%;
   padding: 5%;
   color: #3a3a3a;
 }
-
+*/
 /* Large devices (laptops and desktops, 992px and up)*/
+/*
 @media screen and (min-width: 992px) {
   #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
   }
 }
+*/
