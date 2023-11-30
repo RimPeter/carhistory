@@ -123,13 +123,21 @@ nav {
   background-image: url(../images/carhistory_banner1.jpg);
   background-size: cover;
   background-position: center;
-  height: 200px;
+  height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-
+.shade {
+  background-color: rgba(236,198,159,0.6);
+  width: 70%;
+  text-align: center;
+  border: #5c3b15 solid 2px;
+  padding: 10px;
+  border-radius: 25px;
+  text-shadow: 0 8px 8px rgba(43,34,1,255);
+}
 
 section {
   padding-left: 20px;
