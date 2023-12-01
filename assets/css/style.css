@@ -35,6 +35,7 @@ header {
   justify-content: space-between;
   align-items: baseline;
   
+  
 }
 
 header a {
@@ -79,11 +80,11 @@ h1 {
 }
 
 #menu li a:hover {
-  background-color: #7eb0a4; /* Color for hover effect */
+  background-color: #bea78d; /* Color for hover effect */
 }
 
 #menu li a.active {
-  background-color: #7eb0a4; /* Different shade for active link */
+  background-color: #bea78d; /* Different shade for active link */
 }
 
 .active {
