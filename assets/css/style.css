@@ -401,6 +401,11 @@ footer {
 
   /* Main Content*/
 
+  article {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   main {
     /*push main content down to fit header*/
     margin-top: 79px;
