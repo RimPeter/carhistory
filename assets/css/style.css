@@ -310,7 +310,7 @@ div p {
   /*padding: 0 1rem;*/
   box-shadow: 0 2px 2px #3a3a3a;
   border: #5c3b15 2px solid;
-  padding: 5px;
+  padding: 25px;
   border-radius: 10px;
   border: 25px;
   margin: 25px;
@@ -318,6 +318,37 @@ div p {
   flex-direction: column;
   /*display: none;*/
   /*top: 100%;*/
+}
+
+#submit {
+  font-size: 110%;
+  letter-spacing: 4px;
+  list-style-type: none;
+  flex-wrap: wrap; /* Enables the flex items to wrap as needed */
+  padding-bottom: 10px;
+}
+
+#submit {
+  margin: 5px 0; /* Space between list items */
+  list-style-type: none; /* Removes default list item bullets */
+}
+
+#submit {
+  display: block; /* Makes the link fill the entire list item */
+  text-decoration: none; /* Removes underline */
+  color: #5c3b15; /* Text color */
+  background-color: rgba(236,198,159,255); /* Background color of the button */
+  padding: 10px 20px; /* Padding inside the link/button */
+  text-align: center; /* Centers the text */
+  border: none; /* No border */
+  border-radius: 10px; /* Rounds the corners, adjust radius as needed */
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+  box-shadow: 0 8px 8px rgba(43,34,1,255);
+  text-shadow: 0 8px 8px rgba(43,34,1,255);
+}
+
+#menu li a:hover {
+  background-color: #bea78d; /* Color for hover effect */
 }
 
 
