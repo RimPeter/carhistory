@@ -69,14 +69,14 @@ h1 {
   display: block; /* Makes the link fill the entire list item */
   text-decoration: none; /* Removes underline */
   color: #5c3b15; /* Text color */
-  background-color: rgba(236,198,159,255); /* Background color of the button */
+  background-color: rgba(236,198,159,1); /* Background color of the button */
   padding: 10px 20px; /* Padding inside the link/button */
   text-align: center; /* Centers the text */
   border: none; /* No border */
   border-radius: 10px; /* Rounds the corners, adjust radius as needed */
   transition: background-color 0.3s; /* Smooth transition for hover effect */
-  box-shadow: 0 8px 8px rgba(43,34,1,255);
-  text-shadow: 0 8px 8px rgba(43,34,1,255);
+  box-shadow: 0 8px 8px rgba(43,34,1,1);
+  text-shadow: 0 8px 8px rgba(43,34,1,1);
 }
 
 #menu li a:hover {
@@ -95,7 +95,7 @@ h1 {
 
 nav {
   position: absolute;
-  background-color: rgba(236,198,159,255);
+  background-color: rgba(236,198,159,1);
   width: 100%;
   /*max-width: 300px;*/
   left: 0;
@@ -138,7 +138,7 @@ nav {
   border: #5c3b15 solid 2px;
   padding: 10px;
   border-radius: 25px;
-  text-shadow: 0 8px 8px rgba(43,34,1,255);
+  text-shadow: 0 8px 8px rgba(43,34,1,1);
 }
 
 .background_peoplehtml { /*styling for banner and for postertitle*/
@@ -159,7 +159,7 @@ nav {
   border: #5c3b15 solid 2px;
   padding: 10px;
   border-radius: 25px;
-  text-shadow: 0 8px 8px rgba(43,34,1,255);
+  text-shadow: 0 8px 8px rgba(43,34,1,1);
   margin-top: 90px;
   font-size: 150%;
 }
@@ -182,7 +182,7 @@ nav {
   border: #5c3b15 solid 2px;
   padding: 10px;
   border-radius: 25px;
-  text-shadow: 0 8px 8px rgba(43,34,1,255);
+  text-shadow: 0 8px 8px rgba(43,34,1,1);
   margin-bottom: 170px;
   font-size: 150%;
 }
@@ -208,7 +208,7 @@ nav {
   border: #5c3b15 solid 2px;
   padding: 10px;
   border-radius: 25px;
-  text-shadow: 0 8px 8px rgba(43,34,1,255);
+  text-shadow: 0 8px 8px rgba(43,34,1,1);
   margin-bottom: 40px;
   font-size: 130%;
 }
@@ -310,7 +310,7 @@ div p {
 .signup {
   position: absolute;
   font-size: 120%;
-  background-color: rgba(236,198,159,255);
+  background-color: rgba(236,198,159,1);
   /*width: 100%;*/
   /*max-width: 300px;*/
   /*left: 0;*/
@@ -346,14 +346,14 @@ div p {
   /*display: block;*/ /* Makes the link fill the entire list item */
   /*text-decoration: none; *//* Removes underline */
   color: #5c3b15; /* Text color */
-  background-color: rgba(236,198,159,255); /* Background color of the button */
+  background-color: rgba(236,198,159,1); /* Background color of the button */
   padding: 10px 20px; /* Padding inside the link/button */
   text-align: center; /* Centers the text */
   border: none; /* No border */
   border-radius: 10px; /* Rounds the corners, adjust radius as needed */
   transition: background-color 0.3s; /* Smooth transition for hover effect */
-  box-shadow: 0 8px 8px rgba(43,34,1,255);
-  text-shadow: 0 8px 8px rgba(43,34,1,255);
+  box-shadow: 0 8px 8px rgba(43,34,1,1);
+  text-shadow: 0 8px 8px rgba(43,34,1,1);
   margin-left: 10px;
   margin-bottom: 10px;
 }
