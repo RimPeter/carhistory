@@ -187,6 +187,30 @@ nav {
   font-size: 150%;
 }
 
+.background_signup_html { /*styling for banner and for postertitle*/
+  
+  background-image: url(../images/signup_banner5.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 490px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.shade_signup_html {
+  background-color: rgba(236,198,159,1);
+  width: auto;
+  text-align: center;
+  border: #5c3b15 solid 2px;
+  padding: 10px;
+  border-radius: 25px;
+  text-shadow: 0 8px 8px rgba(43,34,1,255);
+  margin-bottom: 40px;
+  font-size: 130%;
+}
+
 
 
 section { /*make space from the edges of the screen for main page top section*/
