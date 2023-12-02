@@ -2,8 +2,9 @@
 ## Description
 Car History is a web page designed for enthusiasts and historians interested in the evolution of automobiles. This project provides a detailed journey through the history of car manufacturing, highlighting significant milestones and key figures in the industry.
 
-## Visuals
-To enhance user experience, Car History includes responsive screenshots, ensuring optimal display across various devices: mobile phones, tablets, and PC screens. These visuals offer a glimpse into the rich content and user-friendly design of the project.
+## Screenshots
+
+
 
 ## Installation
 No installation is required to enjoy Car History. Simply visit the website to start exploring the fascinating world of automobiles.
