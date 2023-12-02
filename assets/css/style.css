@@ -141,6 +141,31 @@ nav {
   text-shadow: 0 8px 8px rgba(43,34,1,255);
 }
 
+.background_peoplehtml { /*styling for banner and for postertitle*/
+  
+  background-image: url(../images/banner6.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 380px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shade_peoplehtml {
+  background-color: rgba(236,198,159,1);
+  width: auto;
+  text-align: center;
+  border: #5c3b15 solid 2px;
+  padding: 10px;
+  border-radius: 25px;
+  text-shadow: 0 8px 8px rgba(43,34,1,255);
+  margin-top: 90px;
+  font-size: 150%;
+}
+
+
+
 section { /*make space from the edges of the screen for main page top section*/
   padding-left: 20px;
   padding-right: 20px;
