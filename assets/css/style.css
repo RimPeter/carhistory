@@ -301,8 +301,15 @@ div p {
 
 /*Signups*/
 
+#body_signup {
+  height: 1200px;
+}
+
+
+
 .signup {
   position: absolute;
+  font-size: 120%;
   background-color: rgba(236,198,159,255);
   /*width: 100%;*/
   /*max-width: 300px;*/
@@ -310,32 +317,34 @@ div p {
   /*padding: 0 1rem;*/
   box-shadow: 0 2px 2px #3a3a3a;
   border: #5c3b15 2px solid;
-  padding: 25px;
-  border-radius: 10px;
-  border: 25px;
-  margin: 25px;
+  /*padding: 25px;*/
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;  
+  /*margin: 25px;*/
   display: flex;
   flex-direction: column;
   /*display: none;*/
   /*top: 100%;*/
 }
 
+.signup-elements {
+  padding-top: 10px;
+  width: 70%;
+  margin-left: 10px;
+}
+
 #submit {
   font-size: 110%;
   letter-spacing: 4px;
-  list-style-type: none;
-  flex-wrap: wrap; /* Enables the flex items to wrap as needed */
-  padding-bottom: 10px;
-}
-
-#submit {
+  /*list-style-type: none;*/
+  /*flex-wrap: wrap; *//* Enables the flex items to wrap as needed */
+  /*padding-bottom: 10px;*/
   margin: 5px 0; /* Space between list items */
-  list-style-type: none; /* Removes default list item bullets */
-}
-
-#submit {
-  display: block; /* Makes the link fill the entire list item */
-  text-decoration: none; /* Removes underline */
+  /*list-style-type: none;*/ /* Removes default list item bullets */
+  /*display: block;*/ /* Makes the link fill the entire list item */
+  /*text-decoration: none; *//* Removes underline */
   color: #5c3b15; /* Text color */
   background-color: rgba(236,198,159,255); /* Background color of the button */
   padding: 10px 20px; /* Padding inside the link/button */
@@ -345,9 +354,11 @@ div p {
   transition: background-color 0.3s; /* Smooth transition for hover effect */
   box-shadow: 0 8px 8px rgba(43,34,1,255);
   text-shadow: 0 8px 8px rgba(43,34,1,255);
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
+#submit:hover {
 
-#menu li a:hover {
   background-color: #bea78d; /* Color for hover effect */
 }
 
