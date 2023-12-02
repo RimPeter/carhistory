@@ -275,10 +275,11 @@ main {
 
 article {
   margin-left: 4%;
-  margin-right: 4%; /* give some rooms from text at the edge of the screen */
+  margin-right: 4%; 
+  margin-bottom: 10px;/* give some rooms from text at the edge of the screen */
   max-width: 1000px;
-  margin-left: auto;
-  margin-right: auto;
+  /*margin-left: auto;
+  margin-right: auto;*/
   /*align-items: center;
   justify-content: center;
   display: flex;
