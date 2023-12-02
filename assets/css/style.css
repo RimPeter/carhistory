@@ -198,6 +198,12 @@ div p {
   text-align: justify; /* stretch texts to both sides in articles*/
 }
 
+/* Page Jumps*/
+
+#target :hover {
+  background-color: #bea78d; /* Color for hover effect */
+}
+
 
 /* Footer */
 footer {
