@@ -52,17 +52,17 @@
       <section>
         <form action="https://formdump.codeinstitute.net" >
           <div class="signup">
-            <label class="signup-elements" for="firstname">Firstname</label>
+            <label class="signup-elements" for="firstname" >Firstname</label>
             
-            <input class="signup-elements" type="text" name="firstname" />
+            <input class="signup-elements" type="text" name="firstname" id="firstname"/>
             <br />
-            <label class="signup-elements" for="surname">Surname</label>
+            <label class="signup-elements" for="surname" >Surname</label>
             
-            <input class="signup-elements" type="text"  name="surname" />
+            <input class="signup-elements" type="text"  name="surname" id="surname"/>
             <br />
-            <label class="signup-elements" for="email">Email Address</label>
+            <label class="signup-elements" for="email" >Email Address</label>
             
-            <input class="signup-elements" type="email" name="email" />
+            <input class="signup-elements" type="email" name="email" id="email"/>
             <br />
 
             <div>
@@ -72,8 +72,8 @@
                 type="date"
                 min="1911-01-01"
                 max="2008-12-31"
-                name="date"
-                id="date"
+                name="date_of_birth"
+                id="date_of_birth"
               />
             </div>
             <br>
@@ -84,7 +84,7 @@
                 name="newsletter"
                 placeholder="Choose a newsletter"
               />
-              <datalist class="signup-elements">
+              <datalist class="signup-elements" id="newsletter_options">
                 <option value="Vintage Car Almanach"></option>
                 <option value="People in History"></option>
                 <option value="Collectable Items/Shop"></option>
