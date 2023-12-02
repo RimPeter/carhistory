@@ -299,6 +299,27 @@ div p {
   background-color: #bea78d; /* Color for hover effect */
 }
 
+/*Signups*/
+
+.signup {
+  position: absolute;
+  background-color: rgba(236,198,159,255);
+  /*width: 100%;*/
+  /*max-width: 300px;*/
+  /*left: 0;*/
+  /*padding: 0 1rem;*/
+  box-shadow: 0 2px 2px #3a3a3a;
+  border: #5c3b15 2px solid;
+  padding: 5px;
+  border-radius: 10px;
+  border: 25px;
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  /*display: none;*/
+  /*top: 100%;*/
+}
+
 
 /* Footer */
 footer {
