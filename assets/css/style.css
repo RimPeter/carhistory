@@ -164,13 +164,9 @@ section { /*make space from the edges of the screen for main page top section*/
   padding: 10px 10px 10px 10px;
   margin-top: 10px;
   border: #5c3b15 2px solid;
+  margin-right: 20px;
 }
 
-.people_photo_position {
-  display: flex;
-  flex-direction: column;
-  
-}
 
 .periods {
   display: flex;
