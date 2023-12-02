@@ -15,8 +15,7 @@
   <body>
     <!--Header-->
     <header>
-      
-        <a href="index.html">
+      <a href="index.html">
         <h1 id="logo">Car History</h1>
       </a>
       <input type="checkbox" id="nav-toggle" name="nav-toggle" />
@@ -39,43 +38,55 @@
           <li><a href="cars.html">Cars</a></li>
           <li><a href="signup.html" class="active">Sign Up</a></li>
         </ul>
-      
-      
       </nav>
     </header>
     <main>
       <section>
         <div class="background_signup_html">
           <div class="shade_signup_html">
-            <h1>Subscribe to our newsletters</h1>            
+            <h1>Subscribe to our newsletters</h1>
           </div>
-          
         </div>
       </section>
 
       <section>
         <form action="https://formdump.codeinstitute.net">
           <label for="first name">Firstname</label>
-          <br>
-          <input type="text">
-          <br>
+          <br />
+          <input type="text" />
+          <br />
           <label for="">Surname</label>
-          <br>
-          <input type="text">
-          <br>
+          <br />
+          <input type="text" />
+          <br />
           <label for="">Email Address</label>
-          <br>
-          <input type="email">
+          <br />
+          <input type="email" />
 
           <div>
             <label for="Date of Birth">Date of Birth</label>
-            <br>
-            <input type="date" min="1911-01-01" max="2008-12-31" name="date_of_birth" id="date_of_birth">
+            <br />
+            <input
+              type="date"
+              min="1911-01-01"
+              max="2008-12-31"
+              name="date_of_birth"
+              id="date_of_birth"
+            />
           </div>
-
+          <div>
+            <p>Choose newsletter!</p>
+          </div>
+          <div>
+            <input type="text" list="option" />
+            <datalist id="option">
+              <option value="Vintage Car Almanach"></option>
+              <option value="People in History"></option>
+              <option value="Collectable Items/Shop"></option>
+            </datalist>
+          </div>
         </form>
       </section>
-      
     </main>
 
     <!--Footer-->
