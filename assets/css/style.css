@@ -17,12 +17,7 @@ body {
 }
 
 /* Header */
-/*
-#headerimage {
-  width: 5%;
-  height: auto;
-}
-*/
+
 
 header {
   background-color: #ecc69f;
@@ -97,7 +92,6 @@ nav {
   position: absolute;
   background-color: rgba(236,198,159,1);
   width: 100%;
-  /*max-width: 300px;*/
   left: 0;
   padding: 0 1rem;
   box-shadow: 0 2px 2px #3a3a3a;
@@ -278,12 +272,6 @@ article {
   margin-right: 4%; 
   margin-bottom: 10px;/* give some rooms from text at the edge of the screen */
   max-width: 1000px;
-  /*margin-left: auto;
-  margin-right: auto;*/
-  /*align-items: center;
-  justify-content: center;
-  display: flex;
-  flex-direction: column;*/
 }
 
 .sub_block {
@@ -312,22 +300,14 @@ div p {
   position: absolute;
   font-size: 120%;
   background-color: rgba(236,198,159,1);
-  /*width: 100%;*/
-  /*max-width: 300px;*/
-  /*left: 0;*/
-  /*padding: 0 1rem;*/
   box-shadow: 0 2px 2px #3a3a3a;
   border: #5c3b15 2px solid;
-  /*padding: 25px;*/
   margin-top: 25px;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 10px;  
-  /*margin: 25px;*/
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
-  /*display: none;*/
-  /*top: 100%;*/
 }
 
 .signup-elements {
@@ -339,13 +319,7 @@ div p {
 #submit {
   font-size: 110%;
   letter-spacing: 4px;
-  /*list-style-type: none;*/
-  /*flex-wrap: wrap; *//* Enables the flex items to wrap as needed */
-  /*padding-bottom: 10px;*/
   margin: 5px 0; /* Space between list items */
-  /*list-style-type: none;*/ /* Removes default list item bullets */
-  /*display: block;*/ /* Makes the link fill the entire list item */
-  /*text-decoration: none; *//* Removes underline */
   color: #5c3b15; /* Text color */
   background-color: rgba(236,198,159,1); /* Background color of the button */
   padding: 10px 20px; /* Padding inside the link/button */
@@ -377,8 +351,6 @@ footer {
     position: relative;
     box-shadow: none;
     width: fit-content;
-    
-    /*padding-right: 1rem;*/
   }
 
   #menu {
@@ -396,7 +368,6 @@ footer {
   #logo {
     font-size: 280%;
     line-height: 75px;      /* make header 75px thick*/
-    /*margin: 0 0.5rem;*/
   }
 
   /* Main Content*/
@@ -422,9 +393,6 @@ footer {
   }
   
   .periods {
-  /*display: flex;*/
-    /*justify-content: space-between;*/
-    /*align-items: center;*/
     flex-direction: row;                /* make the car-images horizontal with the text */
 
   }
@@ -455,18 +423,4 @@ footer {
   list-style-type: none;          /* remove bullet points */
 }
 
-/*
-#social-networks i {
-  font-size: 160%;
-  padding: 5%;
-  color: #3a3a3a;
-}
-*/
-/* Large devices (laptops and desktops, 992px and up)*/
-/*
-@media screen and (min-width: 992px) {
-  #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
-  }
-}
-*/
+
