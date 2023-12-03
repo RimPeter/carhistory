@@ -4,22 +4,22 @@ Car History is a web page designed for enthusiasts and historians interested in 
 
 ## Screenshots
 
-![large-main-with-favicon](readme-images\large-main-with-favicon.png)
-![large-people](readme-images\large-people.png)
-![large-cars](readme-images\large-cars.png)
-![large-signup](readme-images\large-signup.png)
+![large-main-with-favicon](readme-images/large-main-with-favicon.png)
+![large-people](readme-images/large-people.png)
+![large-cars](readme-images/large-cars.png)
+![large-signup](readme-images/large-signup.png)
 
-![tablet-main](readme-images\tablet-main.png)
-![tablet-people](readme-images\tablet-people.png)
-![tablet-cars](readme-images\tablet-cars.png)
-![tablet-sign up](readme-images\tablet-sign_up.png)
+![tablet-main](readme-images/tablet-main.png)
+![tablet-people](readme-images/tablet-people.png)
+![tablet-cars](readme-images/tablet-cars.png)
+![tablet-sign up](readme-images/tablet-sign_up.png)
 
-![mobile-main](readme-images\mobile-main.png)
-![mobile-main-menudrop](readme-images\mobile-main-menudrop.png)
-![mobile-people](readme-images\mobile-people.png)
-![mobile-cars](readme-images\mobile-cars.png)
-![mobile-signup-top](readme-images\mobile-signup-top.png)
-![mobile-signup](readme-images\mobile-signup.png)
+![mobile-main](readme-images/mobile-main.png)
+![mobile-main-menudrop](readme-images/mobile-main-menudrop.png)
+![mobile-people](readme-images/mobile-people.png)
+![mobile-cars](readme-images/mobile-cars.png)
+![mobile-signup-top](readme-images/mobile-signup-top.png)
+![mobile-signup](readme-images/mobile-signup.png)
 
 ## Installation
 No installation is required to enjoy Car History. Simply visit the website to start exploring the fascinating world of automobiles.
