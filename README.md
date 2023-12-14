@@ -31,6 +31,12 @@ No installation is required to enjoy Car History. Simply visit the website to st
 ![signup.html test result](readme-images/signup_html_test.png)
 ### Style.css passed the CSS checker:
 ![css test result](readme-images/css_test.png)
+### Sign Up test for data:
+![signup.html2 test result](readme-images/sign_up_test2.png)
+### Sign Up test on email section:
+![signup.html3 test result](readme-images/sign_up_test.png)
+
+
 ## Usage
 The project is divided into four main sections:
 
