@@ -21,15 +21,15 @@ Car History is a web page designed for enthusiasts and historians interested in 
 ## Installation
 No installation is required to enjoy Car History. Simply visit the website to start exploring the fascinating world of automobiles.
 ## Testing
-Cars.html passed the HTML checker:
+### Cars.html passed the HTML checker:
 ![cars.html test result](readme-images/cars_html.png)
-People.html passed the HTML checker:
+### People.html passed the HTML checker:
 ![people.html test result](readme-images/people_html.png)
-Index.html passed the HTML checker:
+### Index.html passed the HTML checker:
 ![index.html test result](readme-images/index_html.png)
-Signup.html passed the HTML checker:
+### Signup.html passed the HTML checker:
 ![signup.html test result](readme-images/signup_html_test.png)
-Style.css passed the CSS checker:
+### Style.css passed the CSS checker:
 ![css test result](readme-images/css_test.png)
 ## Usage
 The project is divided into four main sections:
