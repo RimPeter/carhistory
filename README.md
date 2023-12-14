@@ -24,6 +24,7 @@ No installation is required to enjoy Car History. Simply visit the website to st
 ![cars.html test result](readme-images/cars_html.png)
 ![people.html test result](readme-images/people_html.png)
 ![index.html test result](readme-images/index_html.png)
+![signup.html test result](readme-images/signup_html_test.png)
 ![css test result](readme-images/css_test.png)
 ## Usage
 The project is divided into four main sections:
