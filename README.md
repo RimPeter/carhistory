@@ -20,7 +20,11 @@ Car History is a web page designed for enthusiasts and historians interested in 
 
 ## Installation
 No installation is required to enjoy Car History. Simply visit the website to start exploring the fascinating world of automobiles.
-
+## Testing
+![cars.html test result](readme-images/cars_html.png)
+![people.html test result](readme-images/people_html.png)
+![index.html test result](readme-images/index_html.png)
+![css test result](readme-images/css_test.png)
 ## Usage
 The project is divided into four main sections:
 
