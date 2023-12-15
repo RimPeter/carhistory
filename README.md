@@ -45,6 +45,18 @@ The project is divided into four main sections:
 **Milestone Cars**: Highlighting key models that have shaped automotive history.
 **Stay Informed**: A sign-up page for those interested in receiving future updates and in-depth articles.
 
+## Design and Color Scheme
+
+In designing the **Car History** website, special attention was given to the color scheme and typography to create a visually engaging and thematic experience for the users.
+
+### Color Selection
+For the primary color scheme, I chose a palette centered around _"sand brown"_. This color choice was made with the theme of car history in mind, believing it perfectly encapsulates the essence of the site. The shades of "sand brown" were carefully selected using [Image Color Picker](https://imagecolorpicker.com/) to ensure a cohesive and engaging visual experience.
+![color checker2](readme-images/color_checker2.png)
+![color checker2](readme-images/color_checker1.png)
+
+### Font Style
+The typography on the Car History website follows the font style used in the "Love Running" project. This decision was made to ensure readability and visual appeal. The color of the text is in harmony with the background color scheme, adhering to the "sand brown" palette. This approach creates a seamless and aesthetically pleasing interface.
+
 ## Sources
 
 The creation of Car History was supported by several resources:
