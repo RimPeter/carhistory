@@ -61,10 +61,10 @@ The typography on the Car History website follows the font style used in the "Lo
 
 ### The creation of Car History was supported by several resources:
 
-####[Image Color Picker](https://imagecolorpicker.com/): Used for selecting a harmonious color palette. 
-####[GPT-4](https://chat.openai.com/?model=gpt-4): Utilized for generating images, texts, and providing explanations of elements.
-####[Google](www.google.com): Employed for image research.
-####[HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) Validator: Ensured the project is error-free and adheres to web standards.
+- [Image Color Picker](https://imagecolorpicker.com/): Used for selecting a harmonious color palette. 
+- [GPT-4](https://chat.openai.com/?model=gpt-4): Utilized for generating images, texts, and providing explanations of elements.
+- [Google](www.google.com): Employed for image research.
+- [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) Validator: Ensured the project is error-free and adheres to web standards.
 
 ## Roadmap
 As of now, there are no planned updates for Car History. However, the site will continue to provide valuable information for its users.
