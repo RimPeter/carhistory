@@ -18,8 +18,16 @@ Car History is a web page designed for enthusiasts and historians interested in 
 ![mobile-people](readme-images/mobile-people.png) ![mobile-cars](readme-images/mobile-cars.png)
 ![mobile-signup-top](readme-images/mobile-signup-top.png) ![mobile-signup](readme-images/mobile-signup.png)
 
-## Installation
-No installation is required to enjoy Car History. Simply visit the website to start exploring the fascinating world of automobiles.
+
+## For General Users
+To experience the Car History website, **no installation is required**. Simply visit the website to immerse yourself in the world of automobiles. This accessibility ensures that anyone with internet access can enjoy the content seamlessly.
+
+## For Developers
+If you're interested in contributing or further developing the project, here's how you can get involved:
+
+- **Forking or Cloning**: Feel free to fork or clone this repository. This allows you to make your own modifications and improvements to the Car History project.
+- **Setting Up Your Environment**: After forking or cloning, set up your local environment for development. Additional setup instructions are available upon request or in the project documentation.
+
 ## Testing
 ### Cars.html passed the HTML checker:
 ![cars.html test result](readme-images/cars_html.png)
@@ -67,7 +75,8 @@ The typography on the Car History website follows the font style used in the "Lo
 - [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) Validator: Ensured the project is error-free and adheres to web standards.
 - [readme template](https://github.com/Code-Institute-Solutions/readme-template)
 - [HTML full template](https://github.com/Code-Institute-Org/ci-full-template)
-- Love Running Project 
+- Love Running Project: I've adapted and applied some of its codes and methodologies to the Car History project, crucial in shaping its functionality and design.
+
 ## Roadmap
 As of now, there are no planned updates for Car History. However, the site will continue to provide valuable information for its users.
 
