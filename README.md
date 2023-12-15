@@ -40,10 +40,10 @@ No installation is required to enjoy Car History. Simply visit the website to st
 ## Usage
 The project is divided into four main sections:
 
-**The Evolution of Automobiles**: A comprehensive overview of car history.
-**Influential Figures**: Profiles of significant individuals in car manufacturing.
-**Milestone Cars**: Highlighting key models that have shaped automotive history.
-**Stay Informed**: A sign-up page for those interested in receiving future updates and in-depth articles.
+- **The Evolution of Automobiles**: A comprehensive overview of car history.
+- **Influential Figures**: Profiles of significant individuals in car manufacturing.
+- **Milestone Cars**: Highlighting key models that have shaped automotive history.
+- **Stay Informed**: A sign-up page for those interested in receiving future updates and in-depth articles.
 
 ## Design and Color Scheme
 
